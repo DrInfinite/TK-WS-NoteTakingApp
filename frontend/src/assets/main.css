@@ -1,0 +1,5 @@
+/* Importing the base, components, and utilities from tailwind. */
+import "./base"
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
